@@ -6,6 +6,7 @@ Un-Reality - A Virtual Reality game showcased at APOGEE 2019
 - [Yash Agarwal](https://github.com/4tex)
 - [Kalash Shah](https://github.com/kalashshah11)
 - [Rahil Jain](https://gitHub.com/thunderbolt06)
+- [Nikhliesh Choudhary](https://github.com/nikcod)
 
 
 ### Trailer
