@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=y9-8xmIuNM4&feature=youtu.be
 <img src="./Assets/Unreality_Poster.jpeg" alt="d"/>
 
 ### Description
-- A Virtual Reality game for the Oculus Rift starting off with a roller coaster around on the BITS Pilani, Pilani Campus and then transitioning into a different world where you take part in action-packed combat against several aliens
+- A Virtual Reality game for the Oculus Rift starting off with a roller coaster around on the BITS Pilani, Pilani Campus and then transitioning into a different world where you take part in action-packed combat against aliens
