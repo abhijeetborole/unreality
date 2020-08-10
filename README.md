@@ -1,4 +1,4 @@
-# unreality
+# Un-Reality
 Un-Reality - A Virtual Reality game showcased at APOGEE 2019
 ## Authors
 - [Abhijeet Borole](https://github.com/abhijeetborole)
