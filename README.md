@@ -1,7 +1,7 @@
 # Un-Reality
 Un-Reality - A Virtual Reality game showcased at APOGEE 2019
 ## Authors
-- Lead - [Abhijeet Borole](https://github.com/abhijeetborole)
+- [Abhijeet Borole](https://github.com/abhijeetborole)
 - [Aman Kumar](https://github.com/askaman)
 - [Yash Agarwal](https://github.com/4tex)
 - [Kalash Shah](https://github.com/kalashshah11)
